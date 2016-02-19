@@ -1,0 +1,2 @@
+MainPackage=C:\Users\unseen\Desktop\adafruitsample-master\Blinky\CS\bin\ARM\Release\Blinky_1.0.2.0_ARM.appx
+SymbolPackage=C:\Users\unseen\Desktop\Blinky_1.0.2.0_Test\Blinky_1.0.2.0_ARM.appxsym
